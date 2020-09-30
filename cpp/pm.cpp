@@ -1,3 +1,4 @@
+#include <catch.hpp>
 #include <tclap/CmdLine.h>
 #include <tclap/json.hpp>
 #include <task_manager.hpp>
