@@ -9,5 +9,3 @@ void entry::from_json(const json& j, Entry& e) {
     j.at("login").get_to(e._login);
     j.at("password").get_to(e._password);
 }
-
-//comment 3
